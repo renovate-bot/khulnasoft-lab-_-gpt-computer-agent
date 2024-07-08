@@ -222,7 +222,7 @@ langchain-core==0.1.52
     #   langchain-openai
     #   langchain-text-splitters
     #   langgraph
-langchain-experimental==0.0.58
+langchain-experimental==0.0.61
     # via -r requirements.in
 langchain-google-genai==1.0.4
     # via -r requirements.in
