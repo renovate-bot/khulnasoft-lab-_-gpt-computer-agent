@@ -555,7 +555,7 @@ upsonic==0.28.4
     # via -r requirements.in
 uritemplate==4.1.1
     # via google-api-python-client
-urllib3==2.2.1
+urllib3==2.2.2
     # via
     #   requests
     #   types-requests
