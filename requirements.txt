@@ -273,7 +273,7 @@ mypy-extensions==1.0.0
     # via typing-inspect
 nest-asyncio==1.6.0
     # via ipykernel
-nltk==3.8.1
+nltk==3.9
     # via open-interpreter
 numpy==1.26.4
     # via
