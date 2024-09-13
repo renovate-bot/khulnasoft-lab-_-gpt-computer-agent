@@ -243,7 +243,7 @@ langsmith==0.1.76
     #   langchain
     #   langchain-community
     #   langchain-core
-litellm==1.40.8
+litellm==1.44.8
     # via open-interpreter
 markdown-it-py==3.0.0
     # via rich
