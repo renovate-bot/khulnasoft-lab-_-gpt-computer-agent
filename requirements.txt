@@ -112,7 +112,7 @@ gitdb==4.0.11
     # via gitpython
 gitpython==3.1.43
     # via git-python
-google-ai-generativelanguage==0.6.4
+google-ai-generativelanguage==0.6.10
     # via google-generativeai
 google-api-core[grpc]==2.19.0
     # via
