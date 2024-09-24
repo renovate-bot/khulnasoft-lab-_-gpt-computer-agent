@@ -98,7 +98,7 @@ filelock==3.14.0
     # via huggingface-hub
 fire==0.5.0
     # via upsonic
-fonttools==4.53.0
+fonttools==4.54.1
     # via matplotlib
 frozenlist==1.4.1
     # via
