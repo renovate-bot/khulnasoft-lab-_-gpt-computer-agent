@@ -71,7 +71,7 @@ dataclasses-json==0.6.7
     # via
     #   langchain
     #   langchain-community
-debugpy==1.8.1
+debugpy==1.8.7
     # via ipykernel
 decorator==5.1.1
     # via ipython
