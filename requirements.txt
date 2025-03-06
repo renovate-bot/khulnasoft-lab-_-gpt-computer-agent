@@ -183,7 +183,7 @@ ipython==8.25.0
     # via ipykernel
 jedi==0.19.1
     # via ipython
-jinja2==3.1.4
+jinja2==3.1.6
     # via litellm
 jinxed==1.2.1
     # via blessed
