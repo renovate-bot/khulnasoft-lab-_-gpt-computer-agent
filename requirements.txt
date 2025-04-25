@@ -149,7 +149,7 @@ grpcio==1.64.1
     #   opentelemetry-exporter-otlp-proto-grpc
 grpcio-status==1.62.2
     # via google-api-core
-h11==0.14.0
+h11==0.16.0
     # via httpcore
 html2image==2.0.4.3
     # via open-interpreter
