@@ -516,7 +516,7 @@ tokentrim==0.1.13
     # via open-interpreter
 toml==0.10.2
     # via open-interpreter
-tornado==6.4.1
+tornado==6.5
     # via
     #   ipykernel
     #   jupyter-client
